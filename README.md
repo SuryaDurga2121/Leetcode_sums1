@@ -16,9 +16,9 @@
 <br>
 -> [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/790703708/)
 <br>
--> [12. Integer to Roman] (https://leetcode.com/problems/integer-to-roman/submissions/890548487/)
+-> [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/890548487/)
 <br>
--> [14. Longest Common Prefix] (https://leetcode.com/problems/longest-common-prefix/submissions/890472866/)
+-> [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/890472866/)
 <br>
 -> [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/889885855/)
 <br>
@@ -26,6 +26,6 @@
 <br>
 -> [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/889865672/)
 <br>
--> [24. Swap Nodes in Pairs] (https://leetcode.com/problems/swap-nodes-in-pairs/submissions/890533783/)
+-> [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/890533783/)
 <br>
 -> [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1004580699/)
