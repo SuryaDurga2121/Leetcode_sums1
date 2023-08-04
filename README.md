@@ -29,3 +29,6 @@
 -> [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/890533783/)
 <br>
 -> [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1004580699/)
+<br>
+-> [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1004615851/)
+<br>
