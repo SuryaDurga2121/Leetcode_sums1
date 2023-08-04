@@ -6,3 +6,4 @@
 <br>
 -> [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/889858601/)
 <br>
+-> [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/889940817/)
